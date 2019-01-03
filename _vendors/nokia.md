@@ -32,7 +32,7 @@ Alternative solution for tech-savvy users:
 
 
 
-Uninstall the *com.evenwell.powersaving.g3* package via the following adb commands:
+Uninstall the *com.evenwell.powersaving.g3* package via the following adb commands (get adb [https://www.xda-developers.com/google-releases-separate-adb-and-fastboot-binary-downloads/](here):
 
 
 `adb shell`<br>
